@@ -2,6 +2,7 @@
 ## Iwater
 Integrantes do grupo:
 Dante de Araújo Costa - 119210045
+Victor Paz de Farias Braga - 117210688
 
 ### Descrição do projeto
 A partir do item 6.b, apoiar e fortalecer a participação das comunidades locais, para melhorar a gestão da água e do saneamento, do Objetivo de Desenvolvimento Sustentável 6(Água potável e saneamento). A solução proposta pelo grupo é ter um software que estabeleça contato entre a companhia de abastecimento de água e moradores de áreas mais carentes em relação a esse recurso para gerir melhor os recursos.
